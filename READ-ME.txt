@@ -1,0 +1,3 @@
+Este é um radar que criei pesquisando um pouco sobre na net, utilizei o tinkercard e todas as bibliotecas que utilizei no codigo ja estao no tinkercard.
+Um projeto que fiz para uma AV1 e tambem porque sempre foi algo que sempre me interessou, demorei cerca de uma semana para finalizar ele e estou buscando fazer melhorias.
+O radar funciona, e tem uma capacidade de detectar objetos ate 3 a 4 metros de distancia.
